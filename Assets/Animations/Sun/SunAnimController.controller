@@ -177,7 +177,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: RotationAnim
-  m_Speed: 0.003
+  m_Speed: 0.002
   m_CycleOffset: 0
   m_Transitions: []
   m_StateMachineBehaviours: []
