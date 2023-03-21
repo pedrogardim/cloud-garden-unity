@@ -3,12 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - WalkStart
+  - WalkEnd
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Girl
   - Water
   - UI
   - 
